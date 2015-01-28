@@ -4,19 +4,10 @@
 
         xmlns:gap = "http://phonegap.com/ns/1.0"
 
-        id        = "com.architecgraphic.ciputraworldsurabaya”
+        id        = "com.architecgraphic.ciputraworld360”
 
-        versionCode="12” 
-
+        versionCode	= "14"
         version   = "1.0.0">
-
-		
-
-
-
-    
-
-
 
 	<!-- this app will have no device api access -->
 
@@ -28,7 +19,6 @@
 
 	
 
-	<!-- the default icon to be use, for BlackBerry must be less than 16kb -->
 
     <icon src="icon.png"/>
 
@@ -44,8 +34,7 @@
 
 
     <description>
-
-        360° virtual tour of Ciputra World Surabaya. Designed and created by Architec Graphic Boutique.
+        360 virtual tour of Ciputra World Surabaya. Designed and created by Architec Graphic Boutique.
     </description>
 
 
