@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.architecgraphic.ciputraworld360"
-        versionCode="14" 
-        version   = "2.0.0">
-=======
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.architecgraphic.ciputraworld360"
-        versionCode ="15"
-        version   = "1.0.0">
->>>>>>> origin/master
+        versionCode ="16"
+        version   = "2.0.0">
 
     <name>Ciputra World 360° virtual tour</name>
 
