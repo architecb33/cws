@@ -1,58 +1,35 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.architecgraphic.ciputraworldsurabaya"
+        id        = "com.architecgraphic.ciputraworld360"
         versionCode="14" 
         version   = "2.0.0">
-
-		
-
-
-
-    
-
-
-
-	<!-- this app will have no device api access -->
-
-	<preference name="permissions" value="none"/>
-
-	<preference name="orientation" value="universal" />
-
-    <preference name="target-device" value="universal" />  
-
-	
-
-	<!-- the default icon to be use, for BlackBerry must be less than 16kb -->
-
-    <icon src="icon.png"/>
-
-
-
-
-
-
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.architecgraphic.ciputraworld360"
+        versionCode ="15"
+        version   = "1.0.0">
+>>>>>>> origin/master
 
     <name>Ciputra World 360° virtual tour</name>
 
-
-
-
     <description>
-
-        360° virtual tour of Ciputra World Surabaya. Designed and created by Architec Graphic Boutique.
+        360 virtual tour of Ciputra World Surabaya. Designed and created by Architec Graphic Boutique.
     </description>
 
 
-
-
     <author href="https://architecgraphic.com" email="abednego@architecgraphic.com">
-
         Yanuar Abednego 
-
     </author>
 
-
-
-
+      <preference name="permissions"                value="none"/>
+    <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
+    <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
+    <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
+    <preference name="webviewbounce"              value="true" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
+    <preference name="prerendered-icon"           value="true" />           <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
+    <preference name="exit-on-suspend"            value="false" />          <!-- ios: if set to true, app will terminate when home button is pressed -->
 </widget>
