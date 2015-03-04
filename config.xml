@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.architecgraphic.ciputraworldsurabaya"
         versionCode="16" 
-        version   = "2.0.0">
+        version   = "2.1.0">
 
     <name>Ciputra World 360° virtual tour</name>
 
