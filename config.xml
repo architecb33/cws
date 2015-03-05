@@ -2,8 +2,8 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.architecgraphic.ciputraworldsurabaya"
-        versionCode="16" 
-        version   = "2.1.0">
+        versionCode="17" 
+        version   = "2.2.0">
 
     <name>Ciputra World 360° virtual tour</name>
 
@@ -23,4 +23,10 @@
     <preference name="webviewbounce"              value="true" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
     <preference name="prerendered-icon"           value="true" />           <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
     <preference name="exit-on-suspend"            value="false" />          <!-- ios: if set to true, app will terminate when home button is pressed -->
+
+<icon src="apple-touch-icon-120x120-precomposed.png" gap:platform="ios" width="120" height="120"/> 
+<icon src="apple-touch-icon-152x152-precomposed.png" gap:platform="ios" width="152" height="152"/> 
+<icon src="apple-touch-icon-76x76-precomposed.png" gap:platform="ios" width="76" height="76"/> 
+    
+    
 </widget>
