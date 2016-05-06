@@ -1,9 +1,9 @@
 <?xml version="1.1" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.architecgraphic.citralandpuriserang"
+        id        = "com.architecgraphic.ciputraworld360"
         versionCode="20" 
-        version   = "2.5.0">
+        version   = "2.5.1">
         <preference name="phonegap-version" value="cli-6.0.0"/>
 
     <name>CWS 360</name>
